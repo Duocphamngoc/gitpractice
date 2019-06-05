@@ -19,5 +19,6 @@ call apply_patches_with_revert.bat
 popd
 
 :quit
-// echo nothing to do here
-echo this line: nothing to do here too
+
+use their
+
